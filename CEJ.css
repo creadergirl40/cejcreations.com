@@ -7,4 +7,6 @@ div{
   width: 5000px
   height5000px
 }
-background-image:url(IMG_20190823_171445.jpg)
+body {
+background-image:url("IMG_20190823_171445.jpg");
+}
